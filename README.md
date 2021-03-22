@@ -42,6 +42,10 @@ Summary
 History Log
 =============
 
+- 1.0.1 -- 2021-03-22
+
+    - fix BabyYamlSectionCommentUtil->init not creating the dest file if it doesn't exist
+  
 - 1.0.0 -- 2021-03-19
 
     - initial commit

@@ -263,6 +263,9 @@ class BabyYamlSectionCommentUtil
         if (null === $this->file) {
             throw new SectionCommentException("SectionCommentUtil: File not set.");
         }
+        if (false === is_file($this->file)) {
+            FileSystemTool::mkfile($this->file, "");
+        }
     }
 
 

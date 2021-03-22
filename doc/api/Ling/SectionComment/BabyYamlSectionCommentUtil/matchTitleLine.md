@@ -54,7 +54,7 @@ Returns bool.
 
 Source Code
 ===========
-See the source code for method [BabyYamlSectionCommentUtil::matchTitleLine](https://github.com/lingtalfi/SectionComment/blob/master/BabyYamlSectionCommentUtil.php#L288-L295)
+See the source code for method [BabyYamlSectionCommentUtil::matchTitleLine](https://github.com/lingtalfi/SectionComment/blob/master/BabyYamlSectionCommentUtil.php#L291-L298)
 
 
 See Also
