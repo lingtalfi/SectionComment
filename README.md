@@ -1,6 +1,6 @@
 SectionComment
 ===========
-2021-03-19
+2021-03-19 -> 2021-05-27
 
 
 
@@ -42,6 +42,10 @@ Summary
 History Log
 =============
 
+- 1.0.2 -- 2021-05-27
+
+    - add BabyYamlSectionCommentUtil->removeSection method
+  
 - 1.0.1 -- 2021-03-22
 
     - fix BabyYamlSectionCommentUtil->init not creating the dest file if it doesn't exist
